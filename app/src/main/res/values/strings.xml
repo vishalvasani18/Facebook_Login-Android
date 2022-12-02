@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SocialMediaLoginDemo</string>
+
+    <string name="facebook_app_id">1839363676422047</string>
+    <string name="fb_login_protocol_scheme">fb1839363676422047</string>
+    <string name="facebook_client_token">bc60ce7b4036fa6df21f9ab276dc87a0</string>
+
+    <string name="welcome">Bienvenido</string>
+    <string name="cancel_login">cancel login</string>
+    <string name="error_login">error login</string>
+    <string name="logout">Cerrar sesión</string>
+
+</resources>
